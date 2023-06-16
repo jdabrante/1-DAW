@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<librerias>
+    <libreria>
+        <libro>
+            <isbn>84949454F</isbn>
+            <titulo>XML Vo.1</titulo>
+            <nivel>basico</nivel>
+            <autores>Juan</autores>
+            <editorial>oklp</editorial>
+            <fecha_publicacion>07/02/2010</fecha_publicacion>
+            <pagina_web/>
+            <precio></precio>
+        </libro>
+        <libro>
+            <isbn>8798778947A</isbn>
+            <titulo>XML Vo.2</titulo>
+            <nivel>basico</nivel>
+            <autores>Manolo</autores>
+            <editorial>Cokdw</editorial>
+            <fecha_publicacion>01/02/2013</fecha_publicacion>
+            <pagina_web/>
+            <precio></precio>
+        </libro>
+        <libro>
+            <isbn>88545474974D</isbn>
+            <titulo>XML Vo.3</titulo>
+            <nivel>basico</nivel>
+            <autores>Noelia</autores>
+            <editorial>Lpop</editorial>
+            <fecha_publicacion>07/04/2015</fecha_publicacion>
+            <pagina_web/>
+            <precio></precio>
+        </libro>
+    </libreria>
+        <libreria>
+        <libro>
+            <isbn>81748798719F</isbn>
+            <titulo>XML Vo.4</titulo>
+            <nivel>intermedio</nivel>
+            <autores>Veronica</autores>
+            <editorial>Tope</editorial>
+            <fecha_publicacion>07/05/2016</fecha_publicacion>
+            <pagina_web/>
+            <precio></precio>
+        </libro>
+        <libro>
+            <isbn>1984654984L</isbn>
+            <titulo>XML Vo.5</titulo>
+            <nivel>intermedio</nivel>
+            <autores>Esteban</autores>
+            <editorial>Wer</editorial>
+            <fecha_publicacion>07/06/2018</fecha_publicacion>
+            <pagina_web></pagina_web>
+            <precio></precio>
+        </libro>
+        <libro>
+            <isbn>35465858998T</isbn>
+            <titulo>XML Vo.6</titulo>
+            <nivel>avanzado</nivel>
+            <autores>Juana</autores>
+            <editorial>Pol</editorial>
+            <fecha_publicacion>08/09/2020</fecha_publicacion>
+            <pagina_web></pagina_web>
+            <precio></precio>
+        </libro>
+    </libreria>
+</librerias>

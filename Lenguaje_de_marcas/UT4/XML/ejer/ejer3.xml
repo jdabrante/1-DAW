@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE guachinche SYSTEM "guachinche.dtd">
+<guachinche>
+    <menu> 
+        <entrantes>
+            <croqueta>Pollo</croqueta>
+            <croqueta>Atún</croqueta>
+            <queso>Cabra</queso>
+            <queso>Vaca</queso>
+            <queso>Mixto</queso>
+        <entrantes>
+        <parrillada>pollo</parrillada>
+        <parrillada>bistec</parrillada>
+        <bebida>vino tinto</bebida>
+        <bebida>caña</bebdida>
+        <bebida>refresco</bebida>
+        <bebida>agua</bebida>
+        <postre>quesillo</postre>
+    </menu>

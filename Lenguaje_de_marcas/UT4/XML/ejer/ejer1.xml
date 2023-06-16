@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concesionario [
+<!ELEMENT concesionario (coche+)>
+<!ELEMENT coche (marca,modelo,motor,matricula,kilometros,precio_original,extras,fotos?)>
+<!ELEMENT marca (#PCDATA)>
+<!ELEMENT modelo (#PCDATA)>
+<!ELEMENT motor (#PCDATA)>
+<!ELEMENT matricula (#PCADATA)>
+<!ELEMENT kilometros (#PCADATA)>
+<!ELEMENT precio_original (#PCDATA)>
+<!ELEMENT extras (#PCDATA)>
+<!ELEMENT fotos EMPTY>
+]>
+
+
+<concesionario>
+    <coche>
+        <marca>Mercedes</marca>
+        <modelo>EQE</modelo>
+        <motor>Eléctrico</motor>
+        <matricula>8998 ABC</matricula>
+        <kilometros>5000</kilometros>
+        <precio_original>77.576,31</precio_original>
+        <extras>10.000</extras>
+        <fotos/>
+    </coche>
+    <coche>
+        <marca>BMW</marca>
+        <modelo>xDrive50</modelo>
+        <motor>Eléctrico</motor>
+        <matricula>M KW 8136E</matricula>
+        <kilometros>400000</kilometros>
+        <precio_original>131.576,31</precio_original>
+        <extras>5.000</extras>
+        <fotos/>
+    </coche>
+    <coche>
+        <marca>Mercedes</marca>
+        <modelo>AQA</modelo>
+        <motor>Eléctrico</motor>
+        <matricula>456564 ABC</matricula>
+        <kilometros>5000</kilometros>
+        <precio_original>77.576,31</precio_original>
+        <extras>10.000</extras>
+        <fotos/>
+    </coche>
+</concesionario>

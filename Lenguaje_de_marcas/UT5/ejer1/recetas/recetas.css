@@ -1,0 +1,60 @@
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#content {
+    margin: 2%;
+}
+#header {
+    background-color:  #DDDD80;
+    text-align: center;
+    padding-bottom: 2em;
+    border: solid 1px  #55C03B;
+}
+
+#header h2{
+    color: green;
+}
+
+#header p {
+    color: green;
+}
+
+#section h2 {
+    margin-top: 0;
+    padding-top: 2%;
+    text-align: center;
+}
+
+#nombre_receta {
+    color: green;
+    font-weight: bold;
+}
+
+th {
+    color:  #106610;
+    background-color:  #DDDD80;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    border: solid 1px  #55C03B;
+}
+
+
+#pasos {
+    color: green;
+}
+
+#section {
+    margin-left: 10%;
+    border-left: solid 1px #55C03B;
+    padding-left: 2%
+}
+
+#cabecera {
+    text-align: center;
+}
+
+#descripcion_pasos {
+    margin-left: 40px;
+}

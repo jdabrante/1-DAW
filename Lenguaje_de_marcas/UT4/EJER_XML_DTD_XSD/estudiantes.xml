@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<!DOCTYPE universidad[
+<!ELEMENT universidad (estudiantes)>
+<!ELEMENT estudiantes (estudiante+)>
+<!ELEMENT estudiante (nombre,apellido,fecha_nac,carrera)>
+<!ATTLIST estudiante dni ID #REQUIRED>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT apellido (#PCDATA)>
+<!ELEMENT fecha_nac (#PCADATA)>
+<!ELEMENT carrera (#PCADATA)>
+]>
+
+<universidad>
+    <estudiantes>
+        <estudiante>
+            <nombre></nombre>
+            <apellido></apellido>
+            <fecha_nac></fecha_nac>
+            <carrera></carrera>
+        </estudiante>
+    </estudiantes>
+</universidad>
+
+
+<?xml version="1.0"?>
+<schema xlmsn="">
+    <xs:element name="universidad">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="estudiantes">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="estduante" type="xs:string">
+                            <xs:attribute
+
+<universidad>
+    <estudiantes>
+        <estudiante>
+            <nombre></nombre>
+            <apellido></apellido>
+            <fecha_nac></fecha_nac>
+            <carrera></carrera>
+        </estudiante>
+    </estudiantes>
+</universidad>
